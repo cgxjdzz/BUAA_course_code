@@ -1,0 +1,3 @@
+In this dataset, some classes have much fewer pictures than the largest one.  
+Because I didn't want to spend time on coding at that time, I wrote a new file to augment the tail classes and save the new images to the document. It now appears to a stupid work....  
+But never mind, I won't do that again.
